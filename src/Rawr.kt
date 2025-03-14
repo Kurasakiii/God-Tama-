@@ -2,6 +2,7 @@ fun main() {
     namaHewan()
     namaMakanan()
     namaHero()
+    abangkesayangan()
 }
 fun namaHewan () {
     val binatang = "Jerapah Makan "
@@ -18,3 +19,7 @@ fun namaHero (){
     println(pake)
 }
 
+fun abangkesayangan (){
+    val mentor = "Bang Raihan"
+    println(mentor)
+}
