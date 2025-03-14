@@ -23,3 +23,5 @@ fun abangkesayangan (){
     val mentor = "Bang Raihan"
     println(mentor)
 }
+
+var 1 ="1"
